@@ -1,4 +1,4 @@
-package Algorithms;
+package indi.hbn.algorithm.leetcode.Algorithms;
 
 import java.util.HashMap;
 import java.util.Map;

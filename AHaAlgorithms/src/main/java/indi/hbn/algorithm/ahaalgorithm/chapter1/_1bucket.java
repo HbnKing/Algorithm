@@ -1,4 +1,4 @@
-package chapter1;
+package indi.hbn.algorithm.ahaalgorithm.chapter1;
 
 import java.util.Scanner;
 
@@ -22,7 +22,7 @@ public class _1bucket {
      * @param args
      */
     public static void main(String[] args) {
-        //初始化一个桶
+        //初始化一个桶,m,m,
         int [] book  = new int[1000];
 
 

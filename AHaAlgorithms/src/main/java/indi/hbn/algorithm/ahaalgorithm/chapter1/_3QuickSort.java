@@ -1,4 +1,6 @@
-package chapter1;
+package indi.hbn.algorithm.ahaalgorithm.chapter1;
+
+import indi.hbn.algorithm.ahaalgorithm.DataUtil;
 
 /**
  * @author wangheng

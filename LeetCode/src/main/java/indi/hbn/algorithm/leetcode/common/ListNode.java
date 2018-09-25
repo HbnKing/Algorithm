@@ -1,4 +1,4 @@
-package common;
+package indi.hbn.algorithm.leetcode.common;
 
 /**
  * @author hbn.king

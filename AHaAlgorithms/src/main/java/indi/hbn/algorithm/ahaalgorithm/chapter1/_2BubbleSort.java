@@ -1,4 +1,4 @@
-package chapter1;
+package indi.hbn.algorithm.ahaalgorithm.chapter1;
 
 /**
  * @author wangheng

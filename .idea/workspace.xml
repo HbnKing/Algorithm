@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2e94f07-bb97-4ffa-a454-e6153ff3f4ee" name="Default Changelist" comment="" />
+    <list default="true" id="c2e94f07-bb97-4ffa-a454-e6153ff3f4ee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AHaAlgorithms/AHaAlgorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter2/_1Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter2/_2Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter2/_3LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter3/_1Bomber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AHaAlgorithms/src/main/python/_0Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AHaAlgorithms/src/test/javatest/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AHaAlgorithms/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/AHaAlgorithms/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/DataUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/DataUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_1bucket.java" beforeDir="false" afterPath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_1bucket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_2BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_2BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_3QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_3QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/main/java/common/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/common/ListNode.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/LeetCode/target/" />
@@ -11,6 +30,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/algorithm$AA.coverage" NAME="AA Coverage Results" MODIFIED="1537800489108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AHaAlgorithms/src/main/python" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -30,50 +52,107 @@
     <session id="-539657111">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7027" />
-          <entry key="md" value="242" />
+          <entry key="dummy" value="7" />
+          <entry key="java" value="8737" />
+          <entry key="md" value="390" />
+          <entry key="py" value="4" />
           <entry key="xml" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7027" />
-          <entry key="Markdown" value="242" />
+          <entry key="JAVA" value="8737" />
+          <entry key="Markdown" value="390" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Python" value="4" />
           <entry key="XML" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="17" />
-          <entry key="md" value="3" />
-          <entry key="xml" value="2" />
+          <entry key="java" value="32" />
+          <entry key="md" value="4" />
+          <entry key="py" value="2" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="17" />
-          <entry key="Markdown" value="3" />
-          <entry key="XML" value="2" />
+          <entry key="JAVA" value="32" />
+          <entry key="Markdown" value="4" />
+          <entry key="Python" value="2" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/python/_0Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_1bucket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_2BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_3QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/DataUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -84,6 +163,9 @@
     <replaceStrings>
       <replace>low</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -98,12 +180,19 @@
         <option value="$PROJECT_DIR$/LeetCode/src/test/Test.java" />
         <option value="$PROJECT_DIR$/AHaAlgorithms/pom.xml" />
         <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/bucket.java" />
-        <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_1bucket.java" />
         <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_2BubbleSort.java" />
-        <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/DataUtil.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_4.java" />
-        <option value="$PROJECT_DIR$/AHaAlgorithms/README.md" />
         <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_3QuickSort.java" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/DataUtil.java" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_1bucket.java" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/src/test/java/test/Test.java" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter2/_1Queue.java" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter2/_3LinkedList.java" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/README.md" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter2/_2Stack.java" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/src/test/javatest/Test.java" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter3/_1Bomber.java" />
+        <option value="$PROJECT_DIR$/AHaAlgorithms/src/main/python/AA.py" />
       </list>
     </option>
   </component>
@@ -130,17 +219,49 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AHaAlgorithms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="AHaAlgorithms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="algorithm" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LeetCode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LeetCode" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
   <component name="MavenRunner">
     <option name="jreName" value="#JAVA_HOME" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="823" />
+    <option name="height" value="815" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -519,6 +640,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -565,28 +689,61 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter1" type="462c0819:PsiDirectoryNode" />
+              <item name="ahaalgorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="AHaAlgorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wh/IdeaProjects/algorithm/AHaAlgorithms/README.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537459126242" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537870152077" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -610,20 +767,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._3QuickSort">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Test" />
-      <module name="LeetCode" />
+  <component name="RunManager" selected="Python.AA">
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java.test.Test" />
+      <module name="AHaAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java.Test" />
-      <module name="LeetCode" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javatest.Test" />
+      <module name="AHaAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java.*" />
+          <option name="PATTERN" value="javatest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -632,11 +795,11 @@
       </method>
     </configuration>
     <configuration name="_2BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1._2BubbleSort" />
+      <option name="MAIN_CLASS_NAME" value="indi.hbn.algorithm.ahaalgorithm.chapter1._2BubbleSort" />
       <module name="AHaAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="indi.hbn.algorithm.ahaalgorithm.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -645,11 +808,11 @@
       </method>
     </configuration>
     <configuration name="_3QuickSort" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter1._3QuickSort" />
+      <option name="MAIN_CLASS_NAME" value="indi.hbn.algorithm.ahaalgorithm.chapter1._3QuickSort" />
       <module name="AHaAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="indi.hbn.algorithm.ahaalgorithm.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -662,7 +825,7 @@
       <module name="AHaAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter1.*" />
+          <option name="PATTERN" value="indi.hbn.algorithm.ahaalgorithm.chapter1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -670,19 +833,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AHaAlgorithms" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AHaAlgorithms/src/main/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AHaAlgorithms/src/main/python/_0Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application._3QuickSort" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.bucket" />
       <item itemvalue="Application._2BubbleSort" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Python.AA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AA" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
         <item itemvalue="Application._2BubbleSort" />
         <item itemvalue="Application.bucket" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -702,16 +889,23 @@
       <workItem from="1537411390294" duration="2855000" />
       <workItem from="1537414435997" duration="16008000" />
       <workItem from="1537458297854" duration="994000" />
+      <workItem from="1537459982975" duration="1507000" />
+      <workItem from="1537494142829" duration="5419000" />
+      <workItem from="1537507272131" duration="8494000" />
+      <workItem from="1537798912216" duration="1117000" />
+      <workItem from="1537800754390" duration="1347000" />
+      <workItem from="1537864622389" duration="92000" />
+      <workItem from="1537867309705" duration="1510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48466000" />
+    <option name="totallyTimeSpent" value="67952000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="823" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="815" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -720,17 +914,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3269494" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3264177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39834026" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32968536" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32831737" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32780084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24964234" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -740,9 +933,10 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297568" />
+      <window_info anchor="right" id="SciView" order="9" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.26037195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -751,12 +945,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3269494" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32647464" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994528" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32968536" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -769,7 +963,8 @@
       <window_info anchor="right" id="Database" order="5" weight="0.3297568" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297568" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.3297568" />
+      <window_info anchor="right" id="SciView" order="9" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -782,61 +977,61 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_2.java</url>
-          <line>27</line>
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_2.java</url>
+          <line>25</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_2.java</url>
-          <line>39</line>
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_2.java</url>
+          <line>37</line>
           <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_2.java</url>
-          <line>32</line>
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_2.java</url>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_2.java</url>
-          <line>44</line>
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_2.java</url>
+          <line>42</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_2.java</url>
-          <line>40</line>
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_2.java</url>
+          <line>38</line>
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_2.java</url>
-          <line>49</line>
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_2.java</url>
+          <line>47</line>
           <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_3QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_3QuickSort.java</url>
           <line>25</line>
           <properties />
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_3QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_3QuickSort.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_3QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_3QuickSort.java</url>
           <line>29</line>
           <properties />
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_4.java</url>
+          <url>file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_4.java</url>
           <line>39</line>
           <properties class="Algorithms._4" method="getMedian2">
             <option name="EMULATED" value="true" />
@@ -865,7 +1060,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_2.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
@@ -875,7 +1070,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_1.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
           <caret line="48" column="5" selection-start-line="48" selection-start-column="4" selection-end-line="60" selection-end-column="9" />
@@ -889,7 +1084,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_3.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-87">
           <caret line="12" column="20" lean-forward="true" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
@@ -903,13 +1098,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_2BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -920,10 +1108,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_1bucket.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/common/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        <state relative-caret-position="171">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/indi/hbn/algorithm/leetcode/Algorithms/_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -934,47 +1129,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/common/ListNode.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/zip/ZipFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="9842">
+          <caret line="571" selection-start-line="571" selection-end-line="571" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/main/java/Algorithms/_4.java">
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/test/javatest/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        <state relative-caret-position="212">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/DataUtil.java">
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter3/_1Bomber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/chapter1/_3QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="78" column="11" lean-forward="true" selection-start-line="78" selection-start-column="11" selection-end-line="78" selection-end-column="11" />
+        <state relative-caret-position="285">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AHaAlgorithms/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="209">
-            <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <first_editor relative-caret-position="399">
+            <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter2/_3LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter2/_2Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter2/_1Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/python/_0Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_1bucket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_2BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter1/_3QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AHaAlgorithms/src/main/java/indi/hbn/algorithm/ahaalgorithm/DataUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="Copyright.UI">
         <settings>
           <splitter-proportions>
@@ -986,9 +1242,70 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python (AHaAlgorithms)|Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 2.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LeetCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
