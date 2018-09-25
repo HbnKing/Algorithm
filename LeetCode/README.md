@@ -1,8 +1,6 @@
-##这里是关于LeetCode 上的题目解析 
-## The solutions about  the problems on LeetCode
+##关于LeetCode 上的题目解析 
 
-内容使用多种开发语言  
-the solutions with multilingual  such as  *Java scala *
+使用多种开发语言  
 
 
 algorthm
