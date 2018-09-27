@@ -5,7 +5,9 @@
   <version>1.0.0</version>
   <modules>
     <module>LeetCode</module>
-      <module>AHaAlgorithms</module>
+    <module>AHaAlgorithms</module>
+    <module>Pintia</module>
+    <module>NewCodes</module>
   </modules>
   <packaging>pom</packaging>
   <inceptionYear>2008</inceptionYear>
