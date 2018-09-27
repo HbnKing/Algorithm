@@ -5,9 +5,7 @@
   <version>1.0.0</version>
   <modules>
     <module>LeetCode</module>
-      <module>AHaAlgorithms</module>
-    <module>NewCodes</module>
-    <module>Pintia</module>
+    <module>AHaAlgorithms</module>
     <module>Pintia</module>
     <module>NewCodes</module>
   </modules>
