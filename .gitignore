@@ -4,3 +4,8 @@
 out
 gen
 .xml
+
+
+# ignore VS Code
+.project
+.settings
