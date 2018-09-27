@@ -6,6 +6,8 @@
   <modules>
     <module>LeetCode</module>
       <module>AHaAlgorithms</module>
+    <module>NewCodes</module>
+    <module>Pintia</module>
   </modules>
   <packaging>pom</packaging>
   <inceptionYear>2008</inceptionYear>
