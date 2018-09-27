@@ -3,7 +3,6 @@
 *.iml
 out
 gen
-*.xml
 
 
 # ignore VS Code
