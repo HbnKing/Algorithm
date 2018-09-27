@@ -1,2 +1,5 @@
 # ignore .idea
-*/.idea/*.*
+.idea
+*.iml
+out
+gen
