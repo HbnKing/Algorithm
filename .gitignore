@@ -1,0 +1,11 @@
+# Ignore for jetbrains
+.idea
+out
+.classpath
+target
+
+
+# Ignore for VS Code
+.project
+.vscode
+.settings
