@@ -1,4 +1,4 @@
-package indi.hbn.algorithm.leetcode.Algorithms;
+package indi.ours.algorithm.leetcode.Algorithms;
 
 import java.util.Arrays;
 
@@ -13,6 +13,7 @@ public class _4 {
      * @param nums1
      * @param nums2
      * @return
+     *
      */
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         if (nums1 ==null) return getMedian(nums2);
@@ -109,5 +110,62 @@ public class _4 {
                 low = partitionX + 1;
         }
         throw new IllegalArgumentException();
+    }
+
+
+    /**
+     *
+     * 对比大小后采用直接插入的方法 index ++
+     *
+     * @param nums1
+     * @param nums2
+     * @return
+     */
+
+    public double findMedianSortedArrays3(int[] nums1, int[] nums2) {
+        if(nums1.length == 0 && nums2.length == 0)
+        {
+            return 0;
+        }
+        double total = nums1.length + nums2.length;
+        int[] ans = new int[(int)total];
+        int pntr1 = 0;
+        int pntr2 = 0;
+        for(int i = 0; pntr1 < nums1.length || pntr2 < nums2.length; i++)
+        {
+            if(pntr1 < nums1.length && pntr2 < nums2.length)
+            {
+                if(nums1[pntr1] < nums2[pntr2])
+                {
+                    ans[i] = nums1[pntr1];
+                    pntr1++;
+                }
+                else
+                {
+                    ans[i] = nums2[pntr2];
+                    pntr2++;
+                }
+            }
+            else if(pntr1 >= nums1.length)
+            {
+                ans[i] = nums2[pntr2];
+                pntr2++;
+            }
+            else
+            {
+                ans[i] = nums1[pntr1];
+                pntr1++;
+            }
+        }
+        if(ans.length%2 == 0)
+        {
+            int middle = ans.length/2;
+            return (double)(ans[middle] + ans[middle-1])/2;
+        }
+        else
+        {
+            int middle = ans.length/2;
+            return ans[middle];
+        }
     }
 }

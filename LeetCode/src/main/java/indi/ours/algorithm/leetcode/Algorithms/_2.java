@@ -1,6 +1,6 @@
-package indi.hbn.algorithm.leetcode.Algorithms;
+package indi.ours.algorithm.leetcode.Algorithms;
 
-import indi.hbn.algorithm.leetcode.common.ListNode;
+import indi.ours.algorithm.leetcode.common.ListNode;
 
 /**
  * @author hbn.king
