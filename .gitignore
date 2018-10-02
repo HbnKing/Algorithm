@@ -19,10 +19,10 @@ target
 out
 *.pyc
 PythonVS.code-workspace
-*/cmake-build-debug/*
+cmake-build-debug
 CMakeLists.txt
 *.cmake
-*/Doc/*
+Doc
 *.classpath
 
 # Ignore for VS Code
