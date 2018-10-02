@@ -1,10 +1,7 @@
-##关于LeetCode 上的题目解析 
+## 关于LeetCode 上的题目解析 
 
 
 
-
-
-|  |Title|Solutions|Time|Space|Video|Difficulty|Tag  
 
 | No.| Title | Solutions |  Difficulty |  Tag |  Tag | tag |  tag | 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -336,12 +333,8 @@
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [Java](././src/main/java/indi/ours/algorithm/leetcode/Algorithms/_1.java/longestPalindromicSubstring/longestPalindromicSubstring)|Medium|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [Java](././src/main/java/indi/ours/algorithm/leetcode/Algorithms/_1.java/medianOfTwoSortedArrays/medianOfTwoSortedArrays)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/Algorithms/_1.java/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters)|Medium|
-|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](././src/main/java/indi/ours/algorithm/leetcode/Algorithms/_2.java)|Medium|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Python](./src/main/Python/result/01_twoSum.py)|Easy|
+|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/Algorithms/_2.java)|Medium|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Python](./src/main/Python/result/01_twoSum.py)  [Java](./src/main/java/indi/ours/algorithm/leetcode/Algorithms/_1.java)|Easy|
 
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |   ``
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|        |        |        |        |        |        |        |        |
 
+### 其他  
