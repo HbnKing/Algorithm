@@ -328,12 +328,12 @@
 |10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/regularExpressionMatching/regularExpressionMatching)|Hard|
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/palindromeNumber/palindromeNumber), [Java](./algorithms/java/src/palindromeNumber/PalindromeNumber.java)|Easy|
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/stringToIntegerAtoi/stringToIntegerAtoi)|Easy|
-|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/reverseInteger/reverseInteger)|Easy|
+|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_7.java)  [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_7scala.scala)|Easy|
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/zigZagConversion/zigZagConversion)|Easy|
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestPalindromicSubstring/longestPalindromicSubstring)|Medium|
-|4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/medianOfTwoSortedArrays/medianOfTwoSortedArrays)|Hard|
-|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters)|Medium|
-|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_2.java)|Medium|
+|4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_4.java)|Hard|
+|3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_3.java)|Medium|
+|2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_2.java)|Medium|
 |1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Python](./src/main/python/result/01_twoSum.py)  [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java)|Easy|
 
 
