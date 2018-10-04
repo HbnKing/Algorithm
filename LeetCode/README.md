@@ -3,12 +3,12 @@
 
 
 
-| No.| Title | Solutions |  Difficulty |  Tag |  Tag | tag |  tag | 
+| No.| Title | Solutions |  Difficulty | Related Topics |  Tag | tag |  tag | 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](pom.xml)|Easy|
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Java](.)|Medium|
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/peakIndexInAMountainArray/PeakIndexInAMountainArray)|Easy|
-844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/backspaceStringCompare/BackspaceStringCompare)|Easy|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/backspaceStringCompare/BackspaceStringCompare)|Easy|
 |837|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mostCommonWord/MostCommonWord)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/uniqueMorseCodeWords/UniqueMorseCodeWords)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/jewelsAndStones/JewelsAndStones)|Easy|
@@ -328,7 +328,7 @@
 |10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/regularExpressionMatching/regularExpressionMatching)|Hard|
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/palindromeNumber/palindromeNumber), [Java](./algorithms/java/src/palindromeNumber/PalindromeNumber.java)|Easy|
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/stringToIntegerAtoi/stringToIntegerAtoi)|Easy|
-|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_7.java)  [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_7scala.scala)|Easy|
+|7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_7.java)  [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_7scala.scala)|Easy| Math |
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/zigZagConversion/zigZagConversion)|Easy|
 |5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestPalindromicSubstring/longestPalindromicSubstring)|Medium|
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_4.java)|Hard|
