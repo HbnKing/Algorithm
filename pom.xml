@@ -31,7 +31,9 @@
     </pluginRepository>
   </pluginRepositories>
 
-  <dependencies>
+  <dependencyManagement>
+
+    <dependencies>
     <dependency>
       <groupId>org.scala-lang</groupId>
       <artifactId>scala-library</artifactId>
@@ -43,13 +45,9 @@
       <version>4.4</version>
       <scope>test</scope>
     </dependency>
-    <dependency>
-      <groupId>org.specs</groupId>
-      <artifactId>specs</artifactId>
-      <version>1.2.5</version>
-      <scope>test</scope>
-    </dependency>
-  </dependencies>
+    </dependencies>
+
+  </dependencyManagement>
 
   <build>
     <sourceDirectory>src/main/scala</sourceDirectory>
