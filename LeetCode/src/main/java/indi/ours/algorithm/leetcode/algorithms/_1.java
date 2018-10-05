@@ -6,7 +6,8 @@ import java.util.Map;
 /**
  * @author hbn.king
  * @create 2018-09-17 下午4:19
- * @desc
+ * @desc  从一个数组中找到 两个数 让他们的和 等于 目标值
+ *
  **/
 public class _1 {
 
@@ -62,6 +63,7 @@ public class _1 {
 
         return null;
     }
+
 
 
 }

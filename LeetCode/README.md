@@ -334,7 +334,7 @@
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_4.java)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_3.java)|Medium|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_2.java)|Medium|
-|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Python](./src/main/python/result/01_twoSum.py)  [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java)|Easy|
+|1|[Two Sum](https://oj.leetcode.com/problems/two-sum/)| [Python](./src/main/python/result/01_twoSum.py)  [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java) [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_1scala.java)|Easy| Array HashTable |
 
 
 ### 其他  
