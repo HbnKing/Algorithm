@@ -14,7 +14,7 @@ public class _8 {
 
     public static void main(String[] args) {
         _8 aa = new _8();
-        int bb = aa.myAtoi("2000000000000");
+        int bb = aa.myAtoi(" +1");
         System.out.println(bb);
     }
 
@@ -27,7 +27,7 @@ public class _8 {
      * @param str
      * @return
      */
-    public int myAtoi2(String str) {
+   /* public int myAtoi2(String str) {
         if (str == null || str.length() == 0) return 0;
         String[] inputdata = str.trim().split(" ");
 
@@ -80,7 +80,7 @@ public class _8 {
 
         }
     }
-
+*/
 
     /**
      * 直接从前往后扫描
@@ -92,57 +92,44 @@ public class _8 {
      * @return
      */
     public static int myAtoi(String str) {
+        str =str.trim() ;
+        if(str == "" || str.length()==0) return  0 ;
         int i = 0;
-        int starter = 0;
-        if ((str.startsWith("-") || str.startsWith("+")) && str.length() > 1) {
+        int starter = 1;
+        if (str.startsWith("-")  && str.length() > 1) {
             i = 1;
             starter = -1;
-
         } else if (str.startsWith("+") && str.length() > 1) {
             i = 1;
             starter = 1;
-
         }
         int flag = i;
-
-
         for (; i < str.length(); i++) {
             //先看看是正负号
             if (str.charAt(i) >= '0' && str.charAt(i) <= '9') {
                 continue;
-
             } else break;
-
         }
-
-
-
+        int result = 0;
         if (i > flag) {
             System.out.println(str.substring(flag, i));
             //System.out.println(Long.MAX_VALUE);
-
-            //这里转换会有问题
-            long result = 0L;
+            //这里转换会有问题  超出 数值的最大值
             try {
-                result = Long.valueOf(str.substring(flag, i));
+                result = Integer.valueOf(str.substring(flag, i)) *starter;
+                System.out.println(result + "  zhi"  + starter);
             } catch (Exception e) {
+                //有异常则 获取 最大或者最小值
+                if(starter <0){
+                    result = Integer.MIN_VALUE ;
+                }else {
+                    result = Integer.MAX_VALUE ;
+                }
 
-                result = Integer.MAX_VALUE *starter ;
-                System.out.println(result);
-                return (int) result;
-
-
+                return result ;
             }
-
-            if (result > Integer.MAX_VALUE || result < Integer.MIN_VALUE) {
-                return Integer.MAX_VALUE * starter;
-            } else {
-                return (int) result;
-            }
-
-
-        } else return 0;
-
+        }
+        return  result ;
     }
 
 
@@ -153,6 +140,7 @@ public class _8 {
      */
 
     public static int myAtoi1(String str) {
+
         if (str == null || str.length() == 0)
             return 0;//
         str = str.trim();
