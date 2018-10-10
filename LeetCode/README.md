@@ -297,7 +297,7 @@
 |41|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/firstMissingPositive/firstMissingPositive)|Hard|
 |40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/combinationSum/combinationSum.II)|Medium|
 |39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/combinationSum/combinationSum)|Medium|
-|38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/countAndSay/countAndSay), [Java](./algorithms/java/src/countAndSay/CountAndSay.java)|Easy|
+|38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_38.java)|Easy| String |
 |37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/sudokuSolver/sudokuSolver)|Hard|
 |36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/validSudoku/validSudoku)|Easy|
 |35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/searchInsertPosition/searchInsertPosition), [Java](./algorithms/java/src/searchInsertPosition/searchInsertPosition.java)|Medium|
