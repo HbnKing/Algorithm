@@ -235,7 +235,7 @@
 |103|[Binary Tree Zigzag Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/binaryTreeZigzagLevelOrderTraversal/binaryTreeZigzagLevelOrderTraversal)|Medium|
 |102|[Binary Tree Level Order Traversal](https://oj.leetcode.com/problems/binary-tree-level-order-traversal/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal), [Java](./algorithms/java/src/binaryTreeLevelOrderTraversal/binaryTreeLevelOrderTraversal.java)|Easy|
 |101|[Symmetric Tree](https://oj.leetcode.com/problems/symmetric-tree/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/symmetricTree/symmetricTree)|Easy|
-|100|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_100.java)|Easy|
+|100|[Same Tree](https://oj.leetcode.com/problems/same-tree/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_100.java)|Easy| Tree Depth-first Search |
 |99|[Recover Binary Search Tree](https://oj.leetcode.com/problems/recover-binary-search-tree/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/recoverBinarySearchTree/recoverBinarySearchTree)|Hard|
 |98|[Validate Binary Search Tree](https://oj.leetcode.com/problems/validate-binary-search-tree/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/validateBinarySearchTree/validateBinarySearchTree), [Java](./algorithms/java/src/validateBinarySearchTree/validateBinarySearchTree.java)|Medium|
 |97|[Interleaving String](https://oj.leetcode.com/problems/interleaving-string/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/interleavingString/interleavingString)|Hard|
@@ -245,7 +245,7 @@
 |93|[Restore IP Addresses](https://oj.leetcode.com/problems/restore-ip-addresses/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/restoreIPAddresses/restoreIPAddresses)|Medium|
 |92|[Reverse Linked List II](https://oj.leetcode.com/problems/reverse-linked-list-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/reverseLinkedList/reverseLinkedList.II), [Java](./algorithms/java/src/reverseLinkedListII/ReverseLinkedListII.java)|Medium|
 |91|[Decode Ways](https://oj.leetcode.com/problems/decode-ways/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/decodeWays/decodeWays)|Medium|
-|90|[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/subsets/subsets.II), [Java](./algorithms/java/src/subsets/subsetsII.java)|Medium|
+|90|[Subsets II](https://oj.leetcode.com/problems/subsets-ii/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/subsets/subsets.II)|Medium|
 |89|[Gray Code](https://oj.leetcode.com/problems/gray-code/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/grayCode/grayCode)|Medium|
 |88|[Merge Sorted Array](https://oj.leetcode.com/problems/merge-sorted-array/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeTwoSortedArray/mergeTwoSortedArray)|Easy|
 |87|[Scramble String](https://oj.leetcode.com/problems/scramble-string/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/scrambleString/scrambleString)|Hard|
