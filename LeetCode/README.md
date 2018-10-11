@@ -3,7 +3,7 @@
 
 
 
-| No.| Title | Solutions |  Difficulty | Related Topics |  Tag | tag |  tag | 
+| No.| Title | Solutions |  Difficulty | Related Topics | Time Complexity | Space Complexity |  Tag | 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](pom.xml)|Easy|
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Java](.)|Medium|
@@ -282,8 +282,8 @@
 |57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/insertInterval/insertInterval)|Hard|
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeIntervals/mergeIntervals)|Hard|
 |55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/jumpGame/jumpGame)|Medium|
-|54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/spiralMatrix/spiralMatrix)|Medium|
-|53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/maximumSubArray/maximumSubArray)|Medium|
+|54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java)|Medium| 
+|53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_53.java)|Medium|Array Dynamic Programming  Divide and Conquer | O(n) |
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nQueens/nQueuens.II)|Hard|
 |51|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nQueens/nQueuens)|Hard|
 |50|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/pow/pow), [Java](./algorithms/java/src/powXn/PowXn.java)|Medium|
@@ -304,9 +304,9 @@
 |35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/searchInsertPosition/searchInsertPosition), [Java](./algorithms/java/src/searchInsertPosition/searchInsertPosition.java)|Medium|
 |34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/searchForRange/searchForRange), [Java](./algorithms/java/src/searchForRange/searchForRange.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/searchInRotatedSortedArray/searchInRotatedSortedArray), [Java](./algorithms/java/src/searchInRotatedSortedArray/searchInRotatedSortedArray.java)|Hard|
-|32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestValidParentheses/longestValidParentheses)|Hard|
+|32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestValidParentheses/longestValidParentheses)|Hard| String |
 |31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nextPermutation/nextPermutation)|Medium|
-|30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords)|Hard|
+|30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords)|Hard| String|
 |29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/divideTwoInt/divideTwoInt)|Medium|
 |28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/strStr/strStr), [Java](./algorithms/java/src/strStr/strStr.java)|Easy|
 |27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/removeElement/removeElement)|Easy|
