@@ -100,7 +100,7 @@
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/moveZeroes/moveZeroes)|Easy|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/expressionAddOperators/ExpressionAddOperators)|Hard|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/perfectSquares/PerfectSquares)|Medium|
-|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/firstBadVersion/FirstBadVersion), [Java](./algorithms/java/src/firstBadVersion/firstBadVersion.java)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/firstBadVersion/FirstBadVersion)|Easy|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/h-Index/h-Index.II)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/h-Index/h-Index)|Medium|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/integerToEnglishWords/IntegerToEnglishWords)|Medium|
@@ -110,9 +110,9 @@
 |260|[Single Number III](https://leetcode.com/problems/single-number-iii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/singleNumber/singleNumber.III)|Medium|
 |258|[Add Digits](https://leetcode.com/problems/add-digits/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/addDigits/addDigits)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/binaryTreePaths/binaryTreePaths)|Easy|
-|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/anagrams/ValidAnagram), [Java](./algorithms/java/src/validAnagram/ValidAnagram.java)|Easy|
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/anagrams/ValidAnagram)|Easy|
 |241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/)|[Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/differentWaysToAddParentheses/DifferentWaysToAddParentheses)|Medium|
-|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/search2DMatrix/search2DMatrix.II), [Java](./algorithms/java/src/searchA2DMatrixII/SearchA2DMatrixII.java)|Medium|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/search2DMatrix/search2DMatrix.II)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/slidingWindowMaximum/SlidingWindowMaximum)|Hard|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/productOfArrayExceptSelf/ProductOfArrayExceptSelf)|Medium|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/deleteNodeInALinkedList/DeleteNodeInALinkedList)|Easy|
@@ -120,14 +120,14 @@
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/lowestCommonAncestorOfABinarySearchTree/LowestCommonAncestorOfABinarySearchTree)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/palindromeLinkedList/PalindromeLinkedList)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/numberOfDigitOne/NumberOfDigitOne)|Medium|
-|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/implementQueueUsingStacks/ImplementQueueUsingStacks), [Java](./algorithms/java/src/myQueue/MyQueue.java)|Easy|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/implementQueueUsingStacks/ImplementQueueUsingStacks)|Easy|
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/powerOfTwo/PowerOfTwo)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/kthSmallestElementInaBST/KthSmallestElementInABst)|Medium|
 |229|[Majority Element II](https://oj.leetcode.com/problems/majority-element-ii/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/majorityElement/majorityElement.II)|Medium|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/summaryRanges/SummaryRanges)|Easy|
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/basicCalculator/BasicCalculator.II)|Medium|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/invertBinaryTree/InvertBinaryTree)|Easy|
-|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/implementStackUsingQueues/ImplementStackUsingQueues), [Java](./algorithms/java/src/myStack/MyStack.java)|Medium|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/implementStackUsingQueues/ImplementStackUsingQueues)|Medium|
 |224|[Basic Calculator](https://leetcode.com/problems/basic-calculator/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/basicCalculator/BasicCalculator)|Medium|
 |223|[Rectangle Area](https://leetcode.com/problems/rectangle-area/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/rectangleArea/RectangleArea)|Easy|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/countCompleteTreeNodes/CountCompleteTreeNodes)|Medium|
@@ -174,7 +174,7 @@
 |165|[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/compareVersionNumbers/compareVersionNumbers)|Easy|
 |164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/maximumGap/maximumGap)|Hard|
 |163|[Missing Ranges](https://oj.leetcode.com/problems/missing-ranges/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/missingRanges/missingRanges)|Medium|
-|162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/findPeakElement/findPeakElement), [Java](./algorithms/java/src/findPeakElement/findPeakElement.java)|Medium|
+|162|[Find Peak Element](https://oj.leetcode.com/problems/find-peak-element/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/findPeakElement/findPeakElement)|Medium|
 |161|[One Edit Distance](https://oj.leetcode.com/problems/one-edit-distance/)&hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/oneEditDistance/oneEditDistance)|Medium|
 |160|[Intersection of Two Linked Lists](https://oj.leetcode.com/problems/intersection-of-two-linked-lists/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/intersectionOfTwoLinkedLists/intersectionOfTwoLinkedLists)|Easy|
 |159|[Longest Substring with At Most Two Distinct Characters](https://oj.leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestSubstringWithAtMostTwoDistinctCharacters/longestSubstringWithAtMostTwoDistinctCharacters)|Hard|
@@ -283,7 +283,7 @@
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeIntervals/mergeIntervals)|Hard|
 |55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/jumpGame/jumpGame)|Medium|
 |54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java)|Medium| 
-|53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_53.java)|Medium|Array Dynamic Programming  Divide and Conquer | O(n) |
+|53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_53.java)|Medium|Array <br> Dynamic Programming <br> Divide and Conquer | O(n) |
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nQueens/nQueuens.II)|Hard|
 |51|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nQueens/nQueuens)|Hard|
 |50|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/pow/pow), [Java](./algorithms/java/src/powXn/PowXn.java)|Medium|
@@ -328,10 +328,10 @@
 |11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/containerWithMostWater/containerWithMostWater)|Medium|
 |10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/regularExpressionMatching/regularExpressionMatching)|Hard|
 |9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/palindromeNumber/palindromeNumber)|Easy|
-|8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_8.java)|Medium| Math String |
+|8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_8.java)|Medium| Math <br> String |
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_7.java)  [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_7scala.scala)|Easy| Math |
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_6.java)|Medium| String | 
-|5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_5.java/)|Medium|String  Dynamic Programming |
+|5|[Longest Palindromic Substring](https://oj.leetcode.com/problems/longest-palindromic-substring/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_5.java/)|Medium|String <br> Dynamic Programming |
 |4|[Median of Two Sorted Arrays](https://oj.leetcode.com/problems/median-of-two-sorted-arrays/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_4.java)|Hard|
 |3|[Longest Substring Without Repeating Characters](https://oj.leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_3.java)|Medium|
 |2|[Add Two Numbers](https://oj.leetcode.com/problems/add-two-numbers/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_2.java)|Medium|
