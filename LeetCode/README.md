@@ -6,7 +6,7 @@
 | No.| Title | Solutions |  Difficulty | Related Topics | Time Complexity | Space Complexity |  Tag | 
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_859.java)|Easy| String|O(n) |
-|858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_859.java)|Medium| Math| 
+|858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_858.java)|Medium| Math| 
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/peakIndexInAMountainArray/PeakIndexInAMountainArray)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/backspaceStringCompare/BackspaceStringCompare)|Easy|
 |837|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mostCommonWord/MostCommonWord)|Easy|
