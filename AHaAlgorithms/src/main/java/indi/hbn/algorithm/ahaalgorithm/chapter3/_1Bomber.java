@@ -1,4 +1,4 @@
-package indi.hbn.algorithm.aha-algorithm.chapter3;
+package indi.hbn.algorithm.ahaalgorithm.chapter3;
 
 /**
  * @author wangheng
