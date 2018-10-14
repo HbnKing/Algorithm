@@ -20,8 +20,14 @@
 * 枚举算法  穷举算法  坑爹的奥数题
 * 有序的去尝试每一种可能  
 
-* 爆炸人小游戏 求出炸弹最合适的为止  [JAVA](src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter3/_1Bomber.java)
-* 火柴棍等式 [JAVA](src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter3/_2Matchstick.java)
-* 数的全排列 [JAVA](src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter3/_3FullPermutationofnumbers.java)
+* 爆炸人小游戏 求出炸弹最合适的为止  [JAVA](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter3/_1Bomber.java)
+* 火柴棍等式 [JAVA](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter3/_2Matchstick.java)
+* 数的全排列 [JAVA](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter3/_3FullPermutationofnumbers.java)
 
-
+#### 第四章 万能的搜索 
+* 不撞南墙不回头--深度优先搜索 [Depth-First-Search](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter4/_1DepthFirstSearch.java)
+* 解救小哈
+* 层层递进--广度优先搜索  Breadth First Search
+* 再解炸弹人
+* 宝岛探险
+* 水管工游戏
