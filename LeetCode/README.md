@@ -11,7 +11,7 @@
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_844.java)|Easy|Two Pointers Stack |
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_819.java/)|Easy|String | O(n) | | &gamma;|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_804.java) [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_804scala.scala)|Easy| String | O(n) |O(n)| &equiv;|
-|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/jewelsAndStones/JewelsAndStones)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_771.java)|Easy|HashTable| O(n*m) |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_657.java)|Easy| String |
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/maximumAverageSubarray/MaximumAverageSubarray.I)|Easy|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/totalHammingDistance/totalHammingDistance)|Medium|
