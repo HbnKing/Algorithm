@@ -10,7 +10,7 @@
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_852.java)|Easy| Binary Search |
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_844.java)|Easy|Two Pointers Stack |
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_819.java/)|Easy|String | O(n) | | &gamma;|
-|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_804.java)|Easy| String | O(n) |O(n)| &equiv;|
+|804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_804.java) [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_804scala.scala)|Easy| String | O(n) |O(n)| &equiv;|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/jewelsAndStones/JewelsAndStones)|Easy|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_657.java)|Easy| String |
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/maximumAverageSubarray/MaximumAverageSubarray.I)|Easy|
