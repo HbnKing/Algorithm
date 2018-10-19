@@ -13,7 +13,7 @@
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_804.java) [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_804scala.scala)|Easy| String | O(n) |O(n)| &equiv;|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_771.java)|Easy|HashTable| O(n*m) |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_657.java)|Easy| String |
-|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/maximumAverageSubarray/MaximumAverageSubarray.I)|Easy|
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_643.java)|Easy|Array | O(n)|  | &gamma;|
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/totalHammingDistance/totalHammingDistance)|Medium|
 |418|[SentenceScreenFitting](https://leetcode.com/problems/sentence-screen-fitting/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/sentenceScreenFitting/sentenceScreenFitting)|Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/partitionEqualSubsetSum/PartitionEqualSubsetSum)|Medium|
