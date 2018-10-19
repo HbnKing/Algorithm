@@ -1,7 +1,7 @@
 package indi.ours.algorithm.leetcode.algorithms
 
 import scala.collection.mutable
-import scala.collection.mutable.*
+import scala.collection.mutable._
 
 /**
   *
