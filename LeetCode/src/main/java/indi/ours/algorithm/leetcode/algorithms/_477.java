@@ -69,5 +69,5 @@ public class _477 {
         }
         return  total ;
     }
-    
+
 }
