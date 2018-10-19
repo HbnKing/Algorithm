@@ -14,7 +14,7 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_771.java)|Easy|HashTable| O(n*m) |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_657.java)|Easy| String |
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_643.java)|Easy|Array | O(n)|  | &gamma;|
-|477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/totalHammingDistance/totalHammingDistance)|Medium|
+|477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_477.java)|Medium|Bit Manipulation|O(n)|O(1)| [links](https://leetcode.com/problems/total-hamming-distance/discuss/96243/Share-my-O(n)-C++-bitwise-solution-with-thinking-process-and-explanation)|
 |418|[SentenceScreenFitting](https://leetcode.com/problems/sentence-screen-fitting/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/sentenceScreenFitting/sentenceScreenFitting)|Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/partitionEqualSubsetSum/PartitionEqualSubsetSum)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/addStrings/AddStrings)|Easy|
