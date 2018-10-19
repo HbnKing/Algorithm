@@ -18,7 +18,7 @@
 |418|[SentenceScreenFitting](https://leetcode.com/problems/sentence-screen-fitting/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/sentenceScreenFitting/sentenceScreenFitting)|Easy|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/partitionEqualSubsetSum/PartitionEqualSubsetSum)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_415.java)|Easy|Math|O(n) | | |
-|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/thirdMaximumNumber/ThirdMaximumNumber)|Easy|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_414.java)|Easy|Array|O(n)|O(1)| |
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/arithmeticSlices/ArithmeticSlices)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/fizzBuzz/FizzBuzz)|Easy|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/splitArrayLargestSum/SplitArrayLargestSum)|Hard|
