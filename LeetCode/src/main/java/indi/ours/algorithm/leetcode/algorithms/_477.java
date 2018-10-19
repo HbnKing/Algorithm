@@ -10,7 +10,6 @@ package indi.ours.algorithm.leetcode.algorithms;
  **/
 public class _477 {
 
-
     public static void main(String[] args) {
         _477.totalHammingDistance(new int[]{4,2,14});
 
@@ -33,7 +32,6 @@ public class _477 {
             }
         }
         return  sum ;
-
     }
 
     int getHammingDistance(int a ,int b){
@@ -49,6 +47,12 @@ public class _477 {
     }
 
 
+    /**
+     * O(n)
+     *
+     * @param nums
+     * @return
+     */
     public static  int totalHammingDistance(int[] nums){
         int total = 0 ;
 
@@ -58,17 +62,12 @@ public class _477 {
             for(int num :nums){
                 //先移位运算   在进行 &1  即可求得该位上 为1 的数量
                 isone += (num>>i) &1 ;
-
                 iszero = nums.length -isone ;
                 //相同  为 0  不同为1
-
             }
             total += isone*iszero ;
         }
         return  total ;
     }
-
-
-
-
+    
 }
