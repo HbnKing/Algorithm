@@ -162,6 +162,10 @@
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/numberOfIslands/NumberOfIslands)|Medium|
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/binaryTreeRightSideView/binaryTreeRightSideView)|Medium|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/houseRobber/houseRobber)|Easy|
+|195|| | | | | | shell|
+|194|| | | | | | shell|
+|193|| | | | | | shell|
+|192|| | | | | | shell|
 |191|[Number of 1 Bits](https://oj.leetcode.com/problems/number-of-1-bits/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/numberOf1Bits/numberOf1Bits)|Easy|
 |190|[Reverse Bits](https://oj.leetcode.com/problems/reverse-bits/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/reverseBits/reverseBits)|Easy|
 |189|[Rotate Array](https://oj.leetcode.com/problems/rotate-array/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/rotateArray/rotateArray), [Java](./algorithms/java/src/rotateArray/RotateArray.java)|Easy|
@@ -360,10 +364,10 @@
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|4|[Tenth Line](https://leetcode.com/problems/tenth-line/)| |Easy|
-|3|[Transpose File](https://leetcode.com/problems/transpose-file/)| |Medium|
-|2|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| |Easy|
-|1|[Word Frequency](https://leetcode.com/problems/word-frequency/)| |Medium|
+|0|[Tenth Line](https://leetcode.com/problems/tenth-line/)| |Easy|
+|0|[Transpose File](https://leetcode.com/problems/transpose-file/)| |Medium|
+|0|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| |Easy|
+|0|[Word Frequency](https://leetcode.com/problems/word-frequency/)| |Medium|
 
 ### 其他  
 文件名称与编号匹配，并且将题目描述添加在该文件中，避免题目上锁不能查看 。
