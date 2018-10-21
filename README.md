@@ -23,7 +23,7 @@ LeetCode  网站题目解析  [详见](./LeetCode)
 算法文章类 [详见](./Document)  
 
 ## 贡献
-如果你想贡献你的代码,你可以fork 修改测试后 pull requset ,或者将你加入到
+如果你有更好代码或者是算法相关专题(当然我们也非常的重视文档),你可以fork 修改测试后 pull requset to me,如果你对这个玩意非常感兴趣，可以将你加入到
 collaborator.  
 作为贡献者 你可以在这里留下你的名字.
 
