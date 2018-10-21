@@ -26,8 +26,12 @@
 
 #### 第四章 万能的搜索 
 * 不撞南墙不回头--深度优先搜索 [Depth-First-Search](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter4/_1DepthFirstSearch.java)
-* 解救小哈
-* 层层递进--广度优先搜索  Breadth First Search
-* 再解炸弹人
-* 宝岛探险
-* 水管工游戏
+* 解救小哈  [Java](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter4/_2saveXiaoHa.java)                            
+* 层层递进--广度优先搜索  [Breadth First Search](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter4/_3BreadthFirstSearch.java)
+* 再解炸弹人  [Java](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter4/_4bomb_Two.java)
+* 宝岛探险  [JavaDFS](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter4/_5BaoDaoBFS.java)
+* 宝岛探险  [JavaBFS](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter4/_5BaoDaoDFS.java)
+* ![](./jpgs/20180110161202479.png)  
+* 水管工游戏  [Java](./src/main/java/indi/hbn/algorithm/ahaalgorithm/chapter4/_6PlumberGame.java)
+* ![](./jpgs/20180329215647632.png)  
+* ![](./jpgs/20180329215700719.png)  
