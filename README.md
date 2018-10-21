@@ -1,5 +1,6 @@
 # Algorithm
-一些关于算法的总结
+一些关于算法的总结  
+让你从算法入门到放弃
 
 ![](./Document/src/main/jpg/BB527E2D-79C4-4303-9039-CE78973812AF.jpg)
 
