@@ -1,5 +1,9 @@
 # Algorithm
 一些关于算法的总结
+
+
+
+
 ## Leetcode专区
 LeetCode  网站题目解析  [详见](./LeetCode/README.md)
 
@@ -11,6 +15,10 @@ LeetCode  网站题目解析  [详见](./LeetCode/README.md)
 
 ## Pintia
 拼题A
+
+
+## Document 
+算法文章类 [详见](./Document)
 
 ## 贡献
 如果你想贡献你的代码,你可以fork 修改测试后 pull requset ,或者将你加入到
