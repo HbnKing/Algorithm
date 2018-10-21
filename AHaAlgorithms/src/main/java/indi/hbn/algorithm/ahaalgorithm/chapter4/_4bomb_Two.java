@@ -5,13 +5,12 @@ package indi.hbn.algorithm.ahaalgorithm.chapter4;
  * @create 2018-10-21 下午10:49
  * @desc
  **/
-public class _bomer {
 
-}
 
 import java.util.*;
 
-public class bomb_Two {
+public class _4bomb_Two {
+
 
     static int n;    //行
     static int m;    //列
@@ -85,6 +84,9 @@ public class bomb_Two {
             String ss=reader.next();
             maze[i]=ss.toCharArray();
         }
+
+
+
         for(int i=0;i<n;i++) {    //标记数组初始化
             for(int j=0;j<m;j++) {
                 book[i][j]=0;
