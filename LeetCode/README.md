@@ -22,8 +22,8 @@
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_599.java)|Easy|Hash Table | O(n)|  | |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_561.java)|Easy|Array | |  | |
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_477.java)|Medium|Bit Manipulation|O(n)|O(1)| [links](https://leetcode.com/problems/total-hamming-distance/discuss/96243/Share-my-O(n)-C++-bitwise-solution-with-thinking-process-and-explanation)|
-|418|[SentenceScreenFitting](https://leetcode.com/problems/sentence-screen-fitting/) &hearts; | |Easy|
-|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/partitionEqualSubsetSum/PartitionEqualSubsetSum)|Medium|
+|418|[SentenceScreenFitting](https://leetcode.com/problems/sentence-screen-fitting/) &hearts; | |Easy||||Locked|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_416.java)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_415.java)|Easy|Math|O(n) | | |
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_414.java)|Easy|Array|O(n)|O(1)| |
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/arithmeticSlices/ArithmeticSlices)|Medium|
