@@ -20,7 +20,7 @@ LeetCode  网站题目解析  [详见](./LeetCode)
 
 
 ## Document  
-算法文章类 [详见](./Document)  
+算法文章类 [详见wiki](https://github.com/HbnKing/Algorithm/wiki)  已开放编辑
 
 ## 贡献
 如果你有更好代码或者是算法相关专题(当然我们也非常的重视文档),你可以fork 修改测试后 pull requset to me,如果你对这个玩意非常感兴趣，可以将你加入到
