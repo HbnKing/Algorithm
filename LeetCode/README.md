@@ -102,7 +102,7 @@
 |292|[Nim Game](https://leetcode.com/problems/nim-game/)  | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nimGame/nimGame)|Easy|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/wordPattern/WordPattern)|Easy|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)  | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/findTheDuplicateNumber/findTheDuplicateNumber)|Hard|
-|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; | [Java](./algorithms/java/src/inorderSuccessorInBST/inorderSuccessorInBST.java)|Medium|
+|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/) &hearts; | |Medium||||locked|
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/)  | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/peekingIterator/PeekingIterator)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/moveZeroes/moveZeroes)|Easy|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/expressionAddOperators/ExpressionAddOperators)|Hard|
@@ -171,7 +171,7 @@
 |189|[Rotate Array](https://oj.leetcode.com/problems/rotate-array/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/rotateArray/rotateArray), [Java](./algorithms/java/src/rotateArray/RotateArray.java)|Easy|
 |188|[Best Time to Buy and Sell Stock IV](https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/bestTimeToBuyAndSellStock/bestTimeToBuyAndSellStock.IV)|Hard|
 |187|[Repeated DNA Sequences](https://oj.leetcode.com/problems/repeated-dna-sequences/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/repeatedDNASequences/repeatedDNASequences)|Medium|
-|186|[Reverse Words in a String II](https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/reverseWordsInAString/reverseWordsInAString.II)|Medium|
+|186|[Reverse Words in a String II](https://oj.leetcode.com/problems/reverse-words-in-a-string-ii/) &hearts; | |Medium| ||| locked|
 |179|[Largest Number](https://oj.leetcode.com/problems/largest-number/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/largestNumber/largestNumber)|Medium|
 |174|[Dungeon Game](https://oj.leetcode.com/problems/dungeon-game/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/dungeonGame/dungeonGame)|Hard|
 |173|[Binary Search Tree Iterator](https://oj.leetcode.com/problems/binary-search-tree-iterator/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/binarySearchTreeIterator/binarySearchTreeIterator), [Java](./algorithms/java/src/binarySearchTreeIterator/binarySearchTreeIterator.java)|Medium|
@@ -357,17 +357,13 @@
 |195|[Tenth Line](https://leetcode.com/problems/tenth-line/)| |Easy|
 |194|[Transpose File](https://leetcode.com/problems/transpose-file/)| |Medium|
 |193|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| |Easy|
-|192|[Word Frequency](https://leetcode.com/problems/word-frequency/)||Medium|
+|192|[Word Frequency](https://leetcode.com/problems/word-frequency/)| |Medium|
 
 ### LeetCode Database
 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|0|[Tenth Line](https://leetcode.com/problems/tenth-line/)| |Easy|
-|0|[Transpose File](https://leetcode.com/problems/transpose-file/)| |Medium|
-|0|[Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/)| |Easy|
-|0|[Word Frequency](https://leetcode.com/problems/word-frequency/)| |Medium|
-
+| | | | | 
 ### 其他  
 文件名称与编号匹配，并且将题目描述添加在该文件中，避免题目上锁不能查看 。
