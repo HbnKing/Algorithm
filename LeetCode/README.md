@@ -297,7 +297,7 @@
 |53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_53.java)|Medium|Array <br> Dynamic Programming <br> Divide and Conquer | O(n) |
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nQueens/nQueuens.II)|Hard|
 |51|[N-Queens](https://oj.leetcode.com/problems/n-queens/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nQueens/nQueuens)|Hard|
-|50|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/pow/pow), [Java](./algorithms/java/src/powXn/PowXn.java)|Medium|
+|50|["Pow(x, n)"](https://oj.leetcode.com/problems/powx-n/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_50.java)|Medium| 
 |49|[Group Anagrams](https://oj.leetcode.com/problems/anagrams/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/anagrams/GroupAnagrams)|Medium|
 |48|[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/rotateImage/rotateImage)|Medium|
 |47|[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/permutations/permutations.II)|Hard|
