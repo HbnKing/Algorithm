@@ -337,8 +337,8 @@
 |13|[Roman to Integer](https://oj.leetcode.com/problems/roman-to-integer/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/romanToInteger/romanToInteger)|Easy|
 |12|[Integer to Roman](https://oj.leetcode.com/problems/integer-to-roman/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/integerToRoman/integerToRoman)|Medium|
 |11|[Container With Most Water](https://oj.leetcode.com/problems/container-with-most-water/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/containerWithMostWater/containerWithMostWater)|Medium|
-|10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/regularExpressionMatching/regularExpressionMatching)|Hard|
-|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/palindromeNumber/palindromeNumber)|Easy|
+|10|[Regular Expression Matching](https://oj.leetcode.com/problems/regular-expression-matching/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_10.java)|Hard|String <br> Dynamic Programming <br> Backtracking| | | 未完待续|
+|9|[Palindrome Number](https://oj.leetcode.com/problems/palindrome-number/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_9.java)|Easy|O(n) | O(1) |Math |回文| 
 |8|[String to Integer (atoi)](https://oj.leetcode.com/problems/string-to-integer-atoi/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_8.java)|Medium| Math <br> String |
 |7|[Reverse Integer](https://oj.leetcode.com/problems/reverse-integer/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_7.java)  [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_7scala.scala)|Easy| Math |
 |6|[ZigZag Conversion](https://oj.leetcode.com/problems/zigzag-conversion/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_6.java)|Medium| String | 

@@ -73,6 +73,13 @@ public class _10 {
 
 
     }
+
+    /**
+     * 未完待续
+     * @param s
+     * @param p
+     * @return
+     */
     public boolean isMatch(String s, String p) {
         return _isMatch(0, 0, s, p);
     }
