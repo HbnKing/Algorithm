@@ -1,8 +1,11 @@
+# 提交问题
+
 代码这个玩意看看就好
-分支 master  develop  leetcode aha-algorithm  等 
+分支现在开了 master  develop  leetcode aha-algorithm  等 
 
 先看代码模块
 项目为maven 子工程
+根据主题不同开了几个模块
 支持 java scala python
 
 一般代码提交到 develop  
