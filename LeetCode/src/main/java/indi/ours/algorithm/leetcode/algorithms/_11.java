@@ -2,7 +2,8 @@ package indi.ours.algorithm.leetcode.algorithms;
 
 /**
  * @author wangheng
- * @create 2018-11-01 下午6:28
+ *
+ * @create 2018-10-29 下午4:02
  * @desc
  *
  * Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai). n vertical lines are drawn such that the two endpoints of line i is at (i, ai) and (i, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water.
@@ -21,6 +22,7 @@ package indi.ours.algorithm.leetcode.algorithms;
  *
  * Input: [1,8,6,2,5,4,8,3,7]
  * Output: 49
+ *
  *
  * 高度 * 宽度  7*(8-1)
  **/
@@ -45,6 +47,4 @@ public class _11 {
         return  container;
 
     }
-
-
 }
