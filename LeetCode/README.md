@@ -277,7 +277,7 @@
 |73|[Set Matrix Zeroes](https://oj.leetcode.com/problems/set-matrix-zeroes/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/setMatrixZeroes/setMatrixZeroes)|Medium|
 |72|[Edit Distance](https://oj.leetcode.com/problems/edit-distance/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/editDistance/editDistance)|Hard|
 |71|[Simplify Path](https://oj.leetcode.com/problems/simplify-path/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/simplifyPath/simplifyPath)|Medium|
-|70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/climbStairs/climbStairs), [Java](./algorithms/java/src/dynamicProgramming/climbStairs/climbStairs.java)|Easy|
+|70|[Climbing Stairs](https://oj.leetcode.com/problems/climbing-stairs/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/climbStairs/climbStairs)|Easy|
 |69|[Sqrt(x)](https://oj.leetcode.com/problems/sqrtx/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/sqrt/sqrt)|Medium|
 |68|[Text Justification](https://oj.leetcode.com/problems/text-justification/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/textJustification/textJustification)|Hard|
 |67|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/addBinary/addBinary)|Easy|
