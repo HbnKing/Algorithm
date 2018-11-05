@@ -327,7 +327,7 @@
 |23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeKSortedLists/mergeKSortedLists)|Hard|
 |22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/generateParentheses/generateParentheses)|Medium|
 |21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeTwoSortedList/mergeTwoSortedList)|Easy|
-|20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/validParentheses/validParentheses)|Easy|
+|20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_20.java)|Easy|String Stack|O(n) | | 
 |19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList)|Easy|
 |18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/4Sum/4Sum)|Medium|
 |17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber)|Medium|
