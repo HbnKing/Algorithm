@@ -311,13 +311,13 @@
 |39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/combinationSum/combinationSum)|Medium|
 |38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_38.java)|Easy| |
 |37|[Sudoku Solver](https://oj.leetcode.com/problems/sudoku-solver/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/sudokuSolver/sudokuSolver)|Hard|
-|36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/validSudoku/validSudoku)|Easy|
-|35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/searchInsertPosition/searchInsertPosition), [Java](./algorithms/java/src/searchInsertPosition/searchInsertPosition.java)|Medium|
+|36|[Valid Sudoku](https://oj.leetcode.com/problems/valid-sudoku/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/validSudoku/validSudoku)|Easy|
+|35|[Search Insert Position](https://oj.leetcode.com/problems/search-insert-position/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_35.java) |Easy| Array Binary Search| O(N) | | |
 |34|[Search for a Range](https://oj.leetcode.com/problems/search-for-a-range/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/searchForRange/searchForRange), [Java](./algorithms/java/src/searchForRange/searchForRange.java)|Medium|
 |33|[Search in Rotated Sorted Array](https://oj.leetcode.com/problems/search-in-rotated-sorted-array/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/searchInRotatedSortedArray/searchInRotatedSortedArray), [Java](./algorithms/java/src/searchInRotatedSortedArray/searchInRotatedSortedArray.java)|Hard|
 |32|[Longest Valid Parentheses](https://oj.leetcode.com/problems/longest-valid-parentheses/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestValidParentheses/longestValidParentheses)|Hard| String  Dynamic Programming |
 |31|[Next Permutation](https://oj.leetcode.com/problems/next-permutation/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nextPermutation/nextPermutation)|Medium|
-|30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords)|Hard| String|
+|30|[Substring with Concatenation of All Words](https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_30.java)|Hard| String Hash Table Two Pointer| O(M*N)| | |
 |29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/divideTwoInt/divideTwoInt)|Medium|
 |28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/strStr/strStr), [Scala](./algorithms/java/src/strStr/strStr.java)|Easy|
 |27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/removeElement/removeElement)|Easy|
@@ -328,7 +328,7 @@
 |22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/generateParentheses/generateParentheses)|Medium|
 |21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeTwoSortedList/mergeTwoSortedList)|Easy|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_20.java)|Easy|String Stack|O(n) | | 
-|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_19.java)|Easy| Linked List Two Pointer| O(N) ||&gamma;| 
+|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_19.java)|Medium| Linked List Two Pointer| O(N) ||&gamma;| 
 |18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_18.java)|Medium|Array HashTable TwoPointer | O(N^4) || Q15|
 |17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_17.java)|Medium|String BackTracking|O(n^3) | | queue|
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_16.java)|Medium|Array Two Point | O(n^2) | | Q15|
