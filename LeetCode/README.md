@@ -328,9 +328,9 @@
 |22|[Generate Parentheses](https://oj.leetcode.com/problems/generate-parentheses/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/generateParentheses/generateParentheses)|Medium|
 |21|[Merge Two Sorted Lists](https://oj.leetcode.com/problems/merge-two-sorted-lists/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeTwoSortedList/mergeTwoSortedList)|Easy|
 |20|[Valid Parentheses](https://oj.leetcode.com/problems/valid-parentheses/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_20.java)|Easy|String Stack|O(n) | | 
-|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList)|Easy|
-|18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/4Sum/4Sum)|Medium|
-|17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_17.java)|Medium|String BackTracking|O(n^3) | | queue|
+|19|[Remove Nth Node From End of List](https://oj.leetcode.com/problems/remove-nth-node-from-end-of-list/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_19.java)|Easy| Linked List Two Pointer| O(N) ||&gamma;| 
+|18|[4Sum](https://oj.leetcode.com/problems/4sum/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_18.java)|Medium|Array HashTable TwoPointer | O(N^4) || Q15|
+|17|[Letter Combinations of a Phone Number](https://oj.leetcode.com/problems/letter-combinations-of-a-phone-number/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_17.java)|Medium|String BackTracking|O(n^3) | | queue|
 |16|[3Sum Closest](https://oj.leetcode.com/problems/3sum-closest/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_16.java)|Medium|Array Two Point | O(n^2) | | Q15|
 |15|[3Sum](https://oj.leetcode.com/problems/3sum/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_15.java)|Medium|Array Two Point | O(n^2) | | good  &gamma; |
 |14|[Longest Common Prefix](https://oj.leetcode.com/problems/longest-common-prefix/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_14.java)|Easy|String|O(M*N) | | |
