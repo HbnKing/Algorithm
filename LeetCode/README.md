@@ -17,6 +17,7 @@
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_819.java/)|Easy|String | O(n) | | &gamma;|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_804.java) [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_804scala.scala)|Easy| String | O(n) |O(n)| &equiv;|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_771.java)|Easy|HashTable| O(n*m) |
+|704|[Binary Search](https://leetcode.com/problems/binary-search/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_704.java)|Easy|Binary Search| O(nlogn) |O(1)| |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_657.java)|Easy| String |
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_643.java)|Easy|Array | O(n)|  | &gamma;|
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_599.java)|Easy|Hash Table | O(n)|  | |
