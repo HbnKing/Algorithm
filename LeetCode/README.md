@@ -107,7 +107,7 @@
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)  | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/moveZeroes/moveZeroes)|Easy|
 |282|[Expression Add Operators](https://leetcode.com/problems/expression-add-operators/)  | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/expressionAddOperators/ExpressionAddOperators)|Hard|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/perfectSquares/PerfectSquares)|Medium|
-|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/firstBadVersion/FirstBadVersion)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_278.java)|Easy| Binary Search | O(nlogn)|O(1)| &gamma;|
 |275|[H-Index II](https://leetcode.com/problems/h-index-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/h-Index/h-Index.II)|Medium|
 |274|[H-Index](https://leetcode.com/problems/h-index/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/h-Index/h-Index)|Medium|
 |273|[Integer to English Words](https://leetcode.com/problems/integer-to-english-words/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/integerToEnglishWords/IntegerToEnglishWords)|Medium|
