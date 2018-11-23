@@ -12,12 +12,13 @@
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_859.java)|Easy| String|O(n) |
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_858.java)|Medium| Math| 
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_852.java)|Easy| Binary Search |
+|846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_846.java)[Python](./src/main/python/result/846_HandOfStraights.py)|Medium|Map | O(nlogn) | | |
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_844.java)|Easy|Two Pointers Stack |
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_832.java)|Easy|Array |O(n)|O(n) |
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_819.java/)|Easy|String | O(n) | | &gamma;|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_804.java) [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_804scala.scala)|Easy| String | O(n) |O(n)| &equiv;|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_771.java)|Easy|HashTable| O(n*m) |
-|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_713.java)|Easy|Array  Two Poniter| O(n) | O(1)| 
+|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_713.java)|Medium|Array  Two Poniter| O(n) | O(1)| 
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_704.java)|Easy|Binary Search| O(logn) |O(1)| |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_657.java)|Easy| String |
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_643.java)|Easy|Array | O(n)|  | &gamma;|
