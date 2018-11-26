@@ -12,29 +12,32 @@
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_859.java)|Easy| String|O(n) |
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_858.java)|Medium| Math| 
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_852.java)|Easy| Binary Search |
+|846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_846.java)<br>[Python](./src/main/python/result/846_HandOfStraights.py)|Medium|Map | O(nlogn) | | |
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_844.java)|Easy|Two Pointers Stack |
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_832.java)|Easy|Array |O(n)|O(n) |
 |819|[Most Common Word](https://leetcode.com/problems/most-common-word/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_819.java/)|Easy|String | O(n) | | &gamma;|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_804.java) [Scala](./src/main/scala/indi/ours/algorithm/leetcode/algorithms/_804scala.scala)|Easy| String | O(n) |O(n)| &equiv;|
-|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_771.java)|Easy|HashTable| O(n*m) |
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_771.java)|Easy|HashTable| O(n*m) |
+|713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_713.java)|Medium|Array  Two Poniter| O(n) | O(1)| 
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_704.java)|Easy|Binary Search| O(logn) |O(1)| |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_657.java)|Easy| String |
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_643.java)|Easy|Array | O(n)|  | &gamma;|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_637.java)|Easy|Tree  BFS | |  | |
 |599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_599.java)|Easy|Hash Table | O(n)|  | |
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_561.java)|Easy|Array | |  | |
 |477|[Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_477.java)|Medium|Bit Manipulation|O(n)|O(1)| [links](https://leetcode.com/problems/total-hamming-distance/discuss/96243/Share-my-O(n)-C++-bitwise-solution-with-thinking-process-and-explanation)|
 |418|[SentenceScreenFitting](https://leetcode.com/problems/sentence-screen-fitting/) &hearts; | |Easy||||Locked|
-|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_416.java)|Medium|
+|416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_416.java)|Medium|
 |415|[Add Strings](https://leetcode.com/problems/add-strings/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_415.java)|Easy|Math|O(n) | | |
-|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_414.java)|Easy|Array|O(n)|O(1)| |
-|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/arithmeticSlices/ArithmeticSlices)|Medium|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/fizzBuzz/FizzBuzz)|Easy|
-|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/splitArrayLargestSum/SplitArrayLargestSum)|Hard|
-|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestPalindrome/LongestPalindrome)|Easy|
-|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/queueReconstructionByHeight/QueueReconstructionByHeight)|Medium|
-|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/convertANumberToHexadecimal/ConvertANumberToHexadecimal)|Easy|
-|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/sumOfLeftLeaves/SumOfLeftLeaves)|Easy|
-|403|[Frog Jump](https://leetcode.com/problems/frog-jump/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/frogJump/FrogJump)|Hard|
+|414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_414.java)|Easy|Array|O(n)|O(1)| |
+|413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/arithmeticSlices/ArithmeticSlices)|Medium|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/fizzBuzz/FizzBuzz)|Easy|
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/splitArrayLargestSum/SplitArrayLargestSum)|Hard|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestPalindrome/LongestPalindrome)|Easy|
+|406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/queueReconstructionByHeight/QueueReconstructionByHeight)|Medium|
+|405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/convertANumberToHexadecimal/ConvertANumberToHexadecimal)|Easy|
+|404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/sumOfLeftLeaves/SumOfLeftLeaves)|Easy|
+|403|[Frog Jump](https://leetcode.com/problems/frog-jump/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/frogJump/FrogJump)|Hard|
 |402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/removeKDigits/RemoveKDigits)|Medium|
 |401|[Binary Watch](https://leetcode.com/problems/binary-watch/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/binaryWatch/BinaryWatch)|Easy|
 |400|[Nth Digit](https://leetcode.com/problems/nth-digit/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nthDigit/NthDigit)|Easy|
