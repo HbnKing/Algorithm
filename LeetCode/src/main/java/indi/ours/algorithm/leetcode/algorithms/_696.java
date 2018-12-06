@@ -37,13 +37,13 @@ package indi.ours.algorithm.leetcode.algorithms;
 public class _696 {
     public static void main(String[] args) {
         _696  test = new _696();
-        int a = test.countBinarySubstrings2("00011110");
+        int a = test.countBinarySubstrings("00011110");
         System.out.println(a);
     }
 
     /**
      * 起点 中点  终点
-     * 0    1   1
+     * 0    1   10
      * 0    2   3
      * 0    3   5
      * 1    2   2
@@ -63,8 +63,7 @@ public class _696 {
         //起点控制
         while(starter <length){
             //端点控制
-
-            int ender = starter+1 ;
+            int ender = starter ;
             //如果数据重复 那就继续移位
             while (ender < length && s.charAt(ender) ==s.charAt(starter)){
                 ender++ ;
@@ -131,4 +130,5 @@ public class _696 {
 
         return res;
     }
+
 }
