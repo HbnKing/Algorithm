@@ -20,6 +20,7 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_771.java)|Easy|HashTable| O(n*m) |
 |713|[Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_713.java)|Medium|Array  Two Poniter| O(n) | O(1)| 
 |704|[Binary Search](https://leetcode.com/problems/binary-search/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_704.java)|Easy|Binary Search| O(logn) |O(1)| |
+|696|[Robot Return to Origin](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_696.java)|Easy| String | O(n)|O(1)|[links](https://leetcode.com/problems/count-binary-substrings/discuss/108600/Java-O(n)-Time-O(1)-Space)|
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_657.java)|Easy| String |
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_643.java)|Easy|Array | O(n)|  | &gamma;|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_637.java)|Easy|Tree  BFS | |  | |
