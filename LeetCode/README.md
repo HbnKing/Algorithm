@@ -288,7 +288,7 @@
 |67|[Add Binary](https://oj.leetcode.com/problems/add-binary/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/addBinary/addBinary)|Easy|
 |66|[Plus One](https://oj.leetcode.com/problems/plus-one/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/plusOne/plusOne)|Easy|
 |65|[Valid Number](https://oj.leetcode.com/problems/valid-number/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/validNumber/validNumber)|Easy|
-|64|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/minimumPathSum/minimumPathSum), [Scala](./algorithms/java/src/dynamicProgramming/minimumPathSum/minimumPathSum.java)|Medium|
+|64|[Minimum Path Sum](https://oj.leetcode.com/problems/minimum-path-sum/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_64.java)|Medium|  O(M*N)|O(1)|Array <br> Dynamic Programming||
 |63|[Unique Paths II](https://oj.leetcode.com/problems/unique-paths-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/uniquePaths/uniquePaths.II), [Scala](./algorithms/java/src/dynamicProgramming/uniquePaths/uniquePathsII.java)|Medium|
 |62|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/uniquePaths/uniquePaths), [Scala](./algorithms/java/src/dynamicProgramming/uniquePaths/uniquePaths.java)|Medium|
 |61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/rotateList/rotateList)|Medium|
