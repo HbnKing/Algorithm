@@ -165,7 +165,7 @@
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/happyNumber/HappyNumber)|Easy|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/bitwiseANDOfNumbersRange/BitwiseAndOfNumbersRange)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/numberOfIslands/NumberOfIslands)|Medium|
-|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/binaryTreeRightSideView/binaryTreeRightSideView)|Medium|
+|199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_199.java)|Medium|O(nlogn)||Tree DFS BFS|
 |198|[House Robber](https://leetcode.com/problems/house-robber/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/houseRobber/houseRobber)|Easy|
 |195|| | | | | | shell|
 |194|| | | | | | shell|
