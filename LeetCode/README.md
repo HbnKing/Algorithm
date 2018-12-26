@@ -59,7 +59,7 @@
 |390|[Elimination Game](https://leetcode.com/problems/elimination-game/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/eliminationGame/EliminationGame)|Medium|
 |389|[Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/findTheDifference/FindTheDifference)|Easy|
 |388|[Longest Absolute File Path](https://leetcode.com/problems/longest-absolute-file-path/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/longestAbsoluteFilePath/LongestAbsoluteFilePath)|Medium|
-|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/firstUniqueCharacterInAString/FirstUniqueCharacterInAString)|Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_387.java)|Easy| Hash Table String | O(n) |O(1)| |
 |386|[Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/lexicographicalNumbers/LexicographicalNumbers)|Medium|
 |385|[Mini Parser](https://leetcode.com/problems/mini-parser/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/miniParser/MiniParser)|Medium|
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/shuffleAnArray/ShuffleAnArray)|Medium|
