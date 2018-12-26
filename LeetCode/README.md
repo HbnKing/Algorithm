@@ -12,6 +12,7 @@
 |859|[Buddy Strings](https://leetcode.com/problems/buddy-strings/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_859.java)|Easy| String|O(n) |
 |858|[Mirror Reflection](https://leetcode.com/problems/mirror-reflection/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_858.java)|Medium| Math| 
 |852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_852.java)|Easy| Binary Search |
+|848|[Shifting Letters](https://leetcode.com/problems/shifting-letters/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_848.java)|Medium|String | O(n) | O(1)| |
 |846|[Hand of Straights](https://leetcode.com/problems/hand-of-straights/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_846.java)<br>[Python](./src/main/python/result/846_HandOfStraights.py)|Medium|Map | O(nlogn) | | |
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_844.java)|Easy|Two Pointers Stack |
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_832.java)|Easy|Array |O(n)|O(n) |
