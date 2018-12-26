@@ -137,7 +137,7 @@
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/lowestCommonAncestorOfABinarySearchTree/LowestCommonAncestorOfABinarySearchTree)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/palindromeLinkedList/PalindromeLinkedList)|Easy|
 |233|[Number of Digit One](https://leetcode.com/problems/number-of-digit-one/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/numberOfDigitOne/NumberOfDigitOne)|Medium|
-|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/implementQueueUsingStacks/ImplementQueueUsingStacks)|Easy|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_232.java)|Easy|Stack Design|O(1) |O(1) |
 |231|[Power of Two](https://leetcode.com/problems/power-of-two/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/powerOfTwo/PowerOfTwo)|Easy|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/kthSmallestElementInaBST/KthSmallestElementInABst)|Medium|
 |229|[Majority Element II](https://oj.leetcode.com/problems/majority-element-ii/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/majorityElement/majorityElement.II)|Medium|
