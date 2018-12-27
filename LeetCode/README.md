@@ -303,7 +303,7 @@
 |58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/lengthOfLastWord/lengthOfLastWord), [Scala](./algorithms/java/src/lengthOfLastWord/LengthOfLastWord.java)|Easy|
 |57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/insertInterval/insertInterval)|Hard|
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeIntervals/mergeIntervals)|Hard|
-|55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_55.java)|Medium|O(n) | O(1)| 
+|55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_55.java)|Medium|O(n) | O(1)|Q45 |
 |54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java)|Medium| 
 |53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_53.java)|Medium|Array <br> Dynamic Programming <br> Divide and Conquer | O(n) |
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nQueens/nQueuens.II)|Hard|
@@ -313,7 +313,7 @@
 |48|[Rotate Image](https://oj.leetcode.com/problems/rotate-image/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/rotateImage/rotateImage)|Medium|
 |47|[Permutations II](https://oj.leetcode.com/problems/permutations-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/permutations/permutations.II)|Hard|
 |46|[Permutations](https://oj.leetcode.com/problems/permutations/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/permutations/permutations)|Medium|
-|45|[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/jumpGame/jumpGame.II)|Hard|
+|45|[Jump Game II](https://oj.leetcode.com/problems/jump-game-ii/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_45.java)|Hard| Array Greedy|O(n)|O(1) |Q55|
 |44|[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/wildcardMatching/wildcardMatching)|Hard|
 |43|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/multiplyStrings/multiplyStrings)|Medium|
 |42|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/trappingRainWater/trappingRainWater)|Hard|
