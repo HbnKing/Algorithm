@@ -317,7 +317,7 @@
 |44|[Wildcard Matching](https://oj.leetcode.com/problems/wildcard-matching/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/wildcardMatching/wildcardMatching)|Hard|
 |43|[Multiply Strings](https://oj.leetcode.com/problems/multiply-strings/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/multiplyStrings/multiplyStrings)|Medium|
 |42|[Trapping Rain Water](https://oj.leetcode.com/problems/trapping-rain-water/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/trappingRainWater/trappingRainWater)|Hard|
-|41|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/firstMissingPositive/firstMissingPositive)|Hard|
+|41|[First Missing Positive](https://oj.leetcode.com/problems/first-missing-positive/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_41.java)|Hard| Array | O(n) | O(1)| 分桶 | 
 |40|[Combination Sum II](https://oj.leetcode.com/problems/combination-sum-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/combinationSum/combinationSum.II)|Medium|
 |39|[Combination Sum](https://oj.leetcode.com/problems/combination-sum/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/combinationSum/combinationSum)|Medium|
 |38|[Count and Say](https://oj.leetcode.com/problems/count-and-say/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_38.java)|Easy| |
