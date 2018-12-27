@@ -303,7 +303,7 @@
 |58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/lengthOfLastWord/lengthOfLastWord), [Scala](./algorithms/java/src/lengthOfLastWord/LengthOfLastWord.java)|Easy|
 |57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/insertInterval/insertInterval)|Hard|
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeIntervals/mergeIntervals)|Hard|
-|55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/jumpGame/jumpGame)|Medium|
+|55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_55.java)|Medium|O(n) | O(1)| 
 |54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java)|Medium| 
 |53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_53.java)|Medium|Array <br> Dynamic Programming <br> Divide and Conquer | O(n) |
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nQueens/nQueuens.II)|Hard|
