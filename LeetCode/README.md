@@ -27,6 +27,7 @@
 |696|[Robot Return to Origin](https://leetcode.com/problems/count-binary-substrings/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_696.java)|Easy| String | O(n)|O(1)|[links](https://leetcode.com/problems/count-binary-substrings/discuss/108600/Java-O(n)-Time-O(1)-Space)|
 |661|[Image Smoother](https://leetcode.com/problems/image-smoother/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_661.java)|Easy| Array | O(n*m)|O(1)| |
 |657|[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_657.java)|Easy| String |
+|653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_653.java)|Easy|Tree | O(n)|  | &gamma;|
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_643.java)|Easy|Array | O(n)|  | &gamma;|
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_637.java)|Easy|Tree  BFS | |  | |
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_622.java)|Medium|Design  Queue |O(n) |O(1)  | 循环队列|
@@ -191,7 +192,7 @@
 |170|[Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/twoSum/twoSum.III)|Easy|
 |169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/majorityElement/majorityElement)|Easy|
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/excelSheetColumnTitle/excelSheetColumnTitle)|Easy|
-|167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/twoSum/twoSum.II)|Medium|
+|167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_167.java)|Easy| Two Pointer <br> Array <br> Binary Search | O(n) | O(1) | |
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/fractionToRecurringDecimal/fractionToRecurringDecimal)|Medium|
 |165|[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/compareVersionNumbers/compareVersionNumbers)|Easy|
 |164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/maximumGap/maximumGap)|Hard|
@@ -303,7 +304,7 @@
 |58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/lengthOfLastWord/lengthOfLastWord), [Scala](./algorithms/java/src/lengthOfLastWord/LengthOfLastWord.java)|Easy|
 |57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/insertInterval/insertInterval)|Hard|
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeIntervals/mergeIntervals)|Hard|
-|55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_55.java)|Medium|O(n) | O(1)|Q45 |
+|55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_55.java)|Medium|Array <br> Greedy|O(n) | O(1)|Q45 |
 |54|[Spiral Matrix](https://oj.leetcode.com/problems/spiral-matrix/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java)|Medium| 
 |53|[Maximum Subarray](https://oj.leetcode.com/problems/maximum-subarray/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_53.java)|Medium|Array <br> Dynamic Programming <br> Divide and Conquer | O(n) |
 |52|[N-Queens II](https://oj.leetcode.com/problems/n-queens-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/nQueens/nQueuens.II)|Hard|
