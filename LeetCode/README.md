@@ -191,7 +191,7 @@
 |170|[Two Sum III - Data structure design](https://oj.leetcode.com/problems/two-sum-iii-data-structure-design/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/twoSum/twoSum.III)|Easy|
 |169|[Majority Element](https://oj.leetcode.com/problems/majority-element/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/majorityElement/majorityElement)|Easy|
 |168|[Excel Sheet Column Title](https://oj.leetcode.com/problems/excel-sheet-column-title/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/excelSheetColumnTitle/excelSheetColumnTitle)|Easy|
-|167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/twoSum/twoSum.II)|Medium|
+|167|[Two Sum II - Input array is sorted](https://oj.leetcode.com/problems/two-sum-ii-input-array-is-sorted/) &hearts; | [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_167.java)|Easy| Two Pointer <br> Array <br> Binary Search | O(n) | O(1) | |
 |166|[Fraction to Recurring Decimal](https://oj.leetcode.com/problems/fraction-to-recurring-decimal/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/fractionToRecurringDecimal/fractionToRecurringDecimal)|Medium|
 |165|[Compare Version Numbers](https://oj.leetcode.com/problems/compare-version-numbers/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/compareVersionNumbers/compareVersionNumbers)|Easy|
 |164|[Maximum Gap](https://oj.leetcode.com/problems/maximum-gap/) | [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/maximumGap/maximumGap)|Hard|
