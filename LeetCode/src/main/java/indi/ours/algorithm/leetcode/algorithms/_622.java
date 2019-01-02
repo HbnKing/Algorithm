@@ -102,7 +102,7 @@ public class _622 {
 
 
     /** Initialize your data structure here. Set the size of the queue to be k. */
-    public MyCircularQueue(int k) {
+    public _622(int k) {
 
         maxsize = k ;
         data = new int[k];

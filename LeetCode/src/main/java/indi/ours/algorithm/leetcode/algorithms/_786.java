@@ -43,8 +43,5 @@ package indi.ours.algorithm.leetcode.algorithms;
  **/
 public class _786 {
 
-    public int[] kthSmallestPrimeFraction(int[] A, int K) {
 
-
-    }
 }

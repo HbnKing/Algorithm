@@ -33,7 +33,7 @@ public class _232 {
     int ender = 0 ;
     int size = 0 ;
     /** Initialize your data structure here. */
-    public MyQueue() {
+    public _232() {
 
     }
 

@@ -98,7 +98,7 @@ public class _45 {
      * @param nums
      * @return
      */
-    public int jump(int[] nums) {
+    public int jump2(int[] nums) {
         //只有一个元素
         if (nums.length <= 1) return 0;
         //当前可以到达的最大元素
@@ -131,7 +131,7 @@ public class _45 {
      * @return
      */
 
-    public int jump(int [] nums){
+    public int jump3(int [] nums){
         //只有一个元素
         if (nums.length <= 1) return 0;
         int level = 0;

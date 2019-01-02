@@ -57,7 +57,7 @@ public class _55 {
      * @param nums
      * @return
      */
-    public boolean canJump(int[] nums) {
+    public boolean canJump2(int[] nums) {
         if(nums==null || nums.length ==0)return  false ;
         int maxindex = nums.length-1 ;
         nums[maxindex] = -1 ;
