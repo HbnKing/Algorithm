@@ -300,8 +300,8 @@
 |62|[Unique Paths](https://oj.leetcode.com/problems/unique-paths/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/uniquePaths/uniquePaths), [Scala](./algorithms/java/src/dynamicProgramming/uniquePaths/uniquePaths.java)|Medium|
 |61|[Rotate List](https://oj.leetcode.com/problems/rotate-list/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/rotateList/rotateList)|Medium|
 |60|[Permutation Sequence](https://oj.leetcode.com/problems/permutation-sequence/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/permutationSequence/permutationSequence)|Medium|
-|59|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/spiralMatrix/spiralMatrix.II)|Medium|
-|58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/lengthOfLastWord/lengthOfLastWord), [Scala](./algorithms/java/src/lengthOfLastWord/LengthOfLastWord.java)|Easy|
+|59|[Spiral Matrix II](https://oj.leetcode.com/problems/spiral-matrix-ii/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_55.java)|Medium|Array| O(n^2) |O(1)| |
+|58|[Length of Last Word](https://oj.leetcode.com/problems/length-of-last-word/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/lengthOfLastWord/lengthOfLastWord)|Easy|
 |57|[Insert Interval](https://oj.leetcode.com/problems/insert-interval/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/insertInterval/insertInterval)|Hard|
 |56|[Merge Intervals](https://oj.leetcode.com/problems/merge-intervals/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeIntervals/mergeIntervals)|Hard|
 |55|[Jump Game](https://oj.leetcode.com/problems/jump-game/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_55.java)|Medium|Array <br> Greedy|O(n) | O(1)|Q45 |
