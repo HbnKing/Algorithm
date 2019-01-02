@@ -333,7 +333,7 @@
 |29|[Divide Two Integers](https://oj.leetcode.com/problems/divide-two-integers/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/divideTwoInt/divideTwoInt)|Medium|
 |28|[Implement strStr()](https://oj.leetcode.com/problems/implement-strstr/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/strStr/strStr), [Scala](./algorithms/java/src/strStr/strStr.java)|Easy|
 |27|[Remove Element](https://oj.leetcode.com/problems/remove-element/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/removeElement/removeElement)|Easy|
-|26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Scala](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/removeDuplicatesFromSortedArray/removeDuplicatesFromSortedArray), [Java](./algorithms/java/src/removeDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./src/main/java/indi/ours/algorithm/leetcode/algorithms/_26.java)|Easy| Array Two Pointer | O(n) | O(1) | |
 |25|[Reverse Nodes in k-Group](https://oj.leetcode.com/problems/reverse-nodes-in-k-group/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/reverseNodesInKGroup/reverseNodesInKGroup)|Hard|
 |24|[Swap Nodes in Pairs](https://oj.leetcode.com/problems/swap-nodes-in-pairs/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/swapNodesInPairs/swapNodesInPairs)|Medium|
 |23|[Merge k Sorted Lists](https://oj.leetcode.com/problems/merge-k-sorted-lists/)| [Java](src/main/java/indi/ours/algorithm/leetcode/algorithms/_1.java/mergeKSortedLists/mergeKSortedLists)|Hard|
